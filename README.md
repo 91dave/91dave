@@ -1,4 +1,12 @@
-### Hi there 👋
+# 91dave
+
+_Software Engineer, Fell Runner, Ale Drinker and Rock Climber. Not always in that order, rarely all at once._
+
+- working as a Software Architect for [Adam Matthew Digital](https://amdigital.co.uk)
+- spending most of my time working on our [Quartex](https://www.quartexcollections.com/) platform
+- mostly using .NET core, AWS, Kubernetes & Docker
+- learning about GitHub actions
+- based in Cumbria, UK
 
 <!--
 **91dave/91dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
