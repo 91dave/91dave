@@ -7,6 +7,7 @@ _Software Engineer, Fell Runner, Ale Drinker and Rock Climber. Not always in tha
 - mostly using .NET core, AWS, Kubernetes & Docker
 - learning about GitHub actions
 - based in Cumbria, UK
+- fell runner representing the [Northern Fells Running Club](http://www.northernfellsrc.org.uk/)
 
 <!--
 **91dave/91dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
